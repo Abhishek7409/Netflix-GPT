@@ -1,4 +1,4 @@
-
+import Body from './Components/Body'
 import './App.css'
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
   
   return (
     <>
-      <h1>Netflix GPT</h1>
+      <Body />
     </>
   )
 }
